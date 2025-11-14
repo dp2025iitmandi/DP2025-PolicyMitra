@@ -2,6 +2,7 @@
 service-account-key.json
 service-account-key-*.json
 server/service-account.json
+android/app/google-services.json
 
 # Node.js
 node_modules/
